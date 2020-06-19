@@ -1,0 +1,12 @@
+name: NLPrediction
+title: NLPrediction
+username:
+account: sunyumail93
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1080494
+bundleId: 2310895
+url: https://sunyumail93.shinyapps.io/NLPrediction/
+when: 1565585271.08676
+asMultiple: FALSE
+asStatic: FALSE
