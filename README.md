@@ -1,7 +1,7 @@
 # NextWordPrediction
 A web server to predict the next word
 
-sunyumail93.shinyapps.io/NLPrediction
+https://sunyumail93.shinyapps.io/NLPrediction/
 
 Here is an example of the server:
 
